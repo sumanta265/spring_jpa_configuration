@@ -1,0 +1,63 @@
+
+<style type="text/css">
+h1{
+
+  color:blue; 
+  font-family: verdana;
+  font-size: 300%;
+
+}	
+
+.demo{
+
+  color:green; 
+  font-family: Candara;
+  font-size: 300%;
+}
+#p1{
+
+color: red;
+  font-family: courier;
+  font-size: 160%;
+  border: 2px solid powderblue;
+ padding: 30px;
+}
+#p2{
+
+color: orange;
+  font-family: courier;
+  font-size: 160%;
+  border: 2px solid powderblue;
+ padding: 30px;
+}
+.p3{
+
+color: pink;
+  font-family: courier;
+  font-size: 160%;
+  border: 2px solid powderblue;
+ padding: 40px;
+ margin: 70px 30px 60px 80;
+}
+.p4{
+
+color: yellow;
+  font-family: courier;
+  font-size: 160%;
+  border: 5px dashed red;
+ padding: 30px;
+ margin: 50px;
+}
+.navbar {
+color: orange;
+}
+.container{
+ border: 5px outset black;
+
+
+}
+.align-center {
+        text-align: center;
+        border: 0;
+      }
+</style>
